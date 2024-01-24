@@ -1,5 +1,5 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=nidhisrivastav28.nidhisrivastav28" />
-
+<br/>
 <div id="header" align="center">
  <img alt="Coding" width="150" src= "https://images.static-collegedunia.com/public/image//f57c4d1979de06e49b1dd15d02ecd231.gif" />
 </div>
