@@ -1,5 +1,6 @@
+<img align="center" alt="Coding" width="200" src= "https://images.static-collegedunia.com/public/image//f57c4d1979de06e49b1dd15d02ecd231.gif" />
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=nidhisrivastav28.nidhisrivastav28" />
-<img align="center" alt="Coding" width="100" src= "https://images.static-collegedunia.com/public/image//f57c4d1979de06e49b1dd15d02ecd231.gif" />
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nidhi+Srivastav;" />
 </h1>
