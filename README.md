@@ -34,7 +34,7 @@
 
 💬 Ask me about **Web Development**
 
-⚡ Fun fact about me 💻📊**Fueling my journey with coffee and coding adventures.**☕🚀
+⚡ Fun fact about me 💻📊 **Fueling my journey with coffee and coding adventures.** ☕🚀
 
  </div>
  
