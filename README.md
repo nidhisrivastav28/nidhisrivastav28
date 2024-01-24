@@ -32,9 +32,9 @@
  
  🌱 I’m currently learning **Laravel, WordPress**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Web Development**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact about me 💻📊**Fueling my journey with coffee and coding adventures.**☕🚀
 
  </div>
  
