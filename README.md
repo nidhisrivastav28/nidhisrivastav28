@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/nidhi-srivastav-4aa298262/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="nidhisrivastav28.github.io/Portfolio/" target="_blank">
+  <a href="https://nidhisrivastav28.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=web&logoColor=white" />
   </a>
 </div>
